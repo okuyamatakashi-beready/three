@@ -9,6 +9,7 @@
 
 h2.sec_ttl {
 	margin-top: 0;
+	font-weight: normal;
 }
 
 /*********************************
@@ -1560,10 +1561,16 @@ $entryBgColor: #F4F4F4;
 				p {
 					margin-top: 0;
 					margin-bottom: 0;
+					@media screen and (max-width: 768px) {
+						text-align: left;
+					}
 				}
 			}
 			dd {
 				width: 78.86075%;
+				@media screen and (max-width: 768px) {
+					width: 100%;
+				}
 				p {
 					margin-top: 0;
 					margin-bottom: 0;
@@ -1603,6 +1610,9 @@ $entryBgColor: #F4F4F4;
 	text-align: center;
 	padding-top: 10rem;
 	padding-bottom: 9rem;
+	@media screen and (max-width: 768px) {
+		display: none;
+	}
 	h2 {
 		color: $mainColor;
 	}
@@ -1632,11 +1642,14 @@ $entryBgColor: #F4F4F4;
 $footerBg: #EAEAEA;
 #footer {
     background-color: $footerBg;
-
+	@media screen and (max-width: 768px) {
+		padding-top: 30px;
+	}
     .ft_left {
 
         h3 {
             color: $mainColor;
+			font-weight: normal;
         }
 
         ul {
@@ -1651,6 +1664,9 @@ $footerBg: #EAEAEA;
         small {
             color: $mainColor;
         }
+		ul {
+			border-bottom: 1px solid $mainColor;
+		}
     }
 
     .ft_right {

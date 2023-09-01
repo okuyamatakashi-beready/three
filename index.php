@@ -52,7 +52,7 @@
 
 <section id="howto" class="bg">
     <div class="container">
-        <h2 class="sec_ttl roboto">
+        <h2 class="sec_ttl">
             PHILOSOPHY
             <small>
                 THREEの大切にすること
@@ -124,7 +124,7 @@
         <div class="owner_wrapper flex">
             <div class="owner_img bg fadeUp duration1"></div>
             <div class="owner_info">
-                <h2 class="sec_ttl roboto fadeUp duration1">
+                <h2 class="sec_ttl fadeUp duration1">
                     OWNER MESSAGE
                     <small>
                     オーナーメッセージ
@@ -147,7 +147,7 @@
 
     <section id="staff_interview">
         <div class="container">
-            <h2 class="sec_ttl roboto fadeUp duration1">
+            <h2 class="sec_ttl fadeUp duration1">
                 STAFF INTERVIEW
                 <small>
                 スタッフインタビュー
@@ -206,7 +206,7 @@
     </div>
 
     <div class="container flex">
-        <h2 class="sec_ttl roboto fadeUp duration1">
+        <h2 class="sec_ttl fadeUp duration1">
             FLOW
             <small>
             採用までの流れ
@@ -266,7 +266,7 @@
 
     <section id="requirements">
         <div class="container_min">
-            <h2 class="sec_ttl roboto">
+            <h2 class="sec_ttl">
                 REQUIREMENTS
                 <small>
                 募集要項
@@ -378,7 +378,7 @@
 
     <section id="entry">
         <div class="container">
-            <h2 class="sec_ttl roboto">
+            <h2 class="sec_ttl">
                 ENTRY
                 <small>
                 エントリー

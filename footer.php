@@ -3,7 +3,7 @@
     <div class="flex">
         <div class="ft_left">
             <h3>THREE</h3>
-            <small class="sp">Copyright © PINKVELVET All Rights Reserved.</small>
+            <small class="sp">Copyright © Cue All Rights Reserved.</small>
 
 
             <ul class="flex">
@@ -31,7 +31,7 @@
 
             </ul>
 
-            <small class="pc">Copyright © PINKVELVET All Rights Reserved.</small>
+            <small class="pc">Copyright © Cue All Rights Reserved.</small>
         </div>
         <!-- //ft_left --> 
 
@@ -43,7 +43,8 @@
                     <b>- FOLLOW ME</b>
 
                     <a href="https://www.instagram.com/pinkvelvet.hair.salon/" class="ft_insta" target="_blank">
-                        <img src="<?php echo get_template_directory_uri(); ?>/images/top/salon_insta.svg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/images/top/salon_insta.svg" alt="" class="pc">
+                        <img src="<?php echo get_template_directory_uri(); ?>/images/salon_insta_sp.svg" alt="" class="sp">
                     </a>
                     
                 </li>

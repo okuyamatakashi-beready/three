@@ -500,6 +500,11 @@ ul.reserve_link li a img {
   color: #000;
   padding-left: 10px;
 }
+@media screen and (max-width: 768px) {
+  .header_nav .header_insta span {
+    color: #FF5800;
+  }
+}
 
 .header_left_btn {
   margin-top: 5rem;
@@ -511,6 +516,11 @@ ul.reserve_link li a img {
   font-family: "Roboto", sans-serif;
   display: block;
   margin-bottom: 2rem;
+}
+@media screen and (max-width: 768px) {
+  .header_left_btn b {
+    color: #FF5800;
+  }
 }
 .header_left_btn a {
   margin-bottom: 8%;
@@ -960,23 +970,30 @@ div.news_list .news_list_child h3 a {
     padding-bottom: 100px;
     position: relative;
   }
+  /*********************************
+      INFOMATION 
+  *********************************/
+  /*********************************
+      slider
+  *********************************/
+  /*********************************
+      NEWS
+  *********************************/
+  /*********************************
+      RECRUIT
+  *********************************/
+  /*********************************
+      footer
+  *********************************/
+}
+@media screen and (max-width: 768px) and (max-width: 768px) {
+  .header_left {
+    height: auto;
+  }
+}
+@media screen and (max-width: 768px) {
   #header::before {
     display: none;
-  }
-  .header_left::before {
-    content: "";
-    background-image: url(../images/common/header_mask.jpg);
-    background-position: top left;
-    background-repeat: no-repeat;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    z-index: 5500;
-    opacity: 0.4;
-    mix-blend-mode: multiply;
   }
   .header_left .mv_logo {
     display: none;
@@ -1001,12 +1018,17 @@ div.news_list .news_list_child h3 a {
   .header_left_btn a {
     margin-left: 0;
   }
+}
+@media screen and (max-width: 768px) and (max-width: 768px) {
+  .header_left_btn a {
+    color: #FF5800;
+    border: 1px solid #FF5800;
+  }
+}
+@media screen and (max-width: 768px) {
   a.logo {
     font-size: 22px;
   }
-  /*********************************
-      INFOMATION 
-  *********************************/
   #info {
     padding-top: 48px;
   }
@@ -1054,9 +1076,6 @@ div.news_list .news_list_child h3 a {
   #info .salon_info_detail .info_text:nth-of-type(2), #info .salon_info_detail .info_text:nth-of-type(3) {
     margin-bottom: 15px;
   }
-  /*********************************
-      slider
-  *********************************/
   #news .container {
     width: 100%;
   }
@@ -1091,15 +1110,9 @@ div.news_list .news_list_child h3 a {
   div.news_list {
     padding-top: 50px;
   }
-  /*********************************
-      NEWS
-  *********************************/
   .news_switch p span {
     font-size: 12px;
   }
-  /*********************************
-      RECRUIT
-  *********************************/
   #recruit_btn {
     padding-top: 24%;
     padding-bottom: 24%;
@@ -1113,9 +1126,6 @@ div.news_list .news_list_child h3 a {
     font-size: 10px;
     font-weight: 300;
   }
-  /*********************************
-      footer
-  *********************************/
   #footer .container > .flex {
     flex-wrap: wrap;
   }
@@ -1188,6 +1198,7 @@ div.news_list .news_list_child h3 a {
 *********************************/
 h2.sec_ttl {
   margin-top: 0;
+  font-weight: normal;
 }
 
 /*********************************
@@ -2465,8 +2476,18 @@ ul.staff_list li .staff_text a::after {
   margin-top: 0;
   margin-bottom: 0;
 }
+@media screen and (max-width: 768px) {
+  #entry .entryform_wrapper dl dt p {
+    text-align: left;
+  }
+}
 #entry .entryform_wrapper dl dd {
   width: 78.86075%;
+}
+@media screen and (max-width: 768px) {
+  #entry .entryform_wrapper dl dd {
+    width: 100%;
+  }
 }
 #entry .entryform_wrapper dl dd p {
   margin-top: 0;
@@ -2494,6 +2515,11 @@ ul.staff_list li .staff_text a::after {
   text-align: center;
   padding-top: 10rem;
   padding-bottom: 9rem;
+}
+@media screen and (max-width: 768px) {
+  #contact {
+    display: none;
+  }
 }
 #contact h2 {
   color: #FF5800;
@@ -2525,14 +2551,23 @@ ul.staff_list li .staff_text a::after {
 #footer {
   background-color: #EAEAEA;
 }
+@media screen and (max-width: 768px) {
+  #footer {
+    padding-top: 30px;
+  }
+}
 #footer .ft_left h3 {
   color: #FF5800;
+  font-weight: normal;
 }
 #footer .ft_left ul li a {
   color: #FF5800;
 }
 #footer .ft_left small {
   color: #FF5800;
+}
+#footer .ft_left ul {
+  border-bottom: 1px solid #FF5800;
 }
 #footer .ft_right {
   border-left: 1px solid #FF5800;
