@@ -2,7 +2,7 @@
 <div class="container">
     <div class="flex">
         <div class="ft_left">
-            <h3 class="aleo">PINK VELVET</h3>
+            <h3 class="aleo">THREE</h3>
             <small class="sp">Copyright © PINKVELVET All Rights Reserved.</small>
             <a href="https://www.instagram.com/pinkvelvet.hair.salon/" class="ft_insta" target="_blank">
                 <img src="<?php echo get_template_directory_uri(); ?>/images/top/salon_insta.svg" alt="">
