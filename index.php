@@ -1,31 +1,47 @@
 <?php get_header() ?>
 
+<div id="mv">
+    <div class="container">
+        <img src="<?php echo get_template_directory_uri(); ?>/images/mv_catch_pc.svg" alt="" loading="lazy">
+    </div>
+</div>
+
 <div id="message">
-    <span class="flt_alpha napo message_alpha">RECRUIT</span>
+    <div class="flt_alpha napo message_alpha">
+        <img src="<?php echo get_template_directory_uri(); ?>/images/message_catch.svg" alt="" loading="lazy">
+    </div>
 
     <div class="container message_wrapper">
         <div class="message_img flex">
             <figure class="m_left_img fadeUp duration1">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/recruit/message_left.jpg" alt="" loading="lazy">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/message_left.jpg" alt="" loading="lazy">
             </figure>
 
             <figure class="m_right_img fadeUp duration2">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/recruit/message_right.jpg" alt="" loading="lazy">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/message_right.jpg" alt="" loading="lazy">
             </figure>
         </div>
         <!-- //message_img -->
 
         <div class="message_text_wrap flex">
-            <p class="fadeUp duration1">
-                PINK VELVETは、美容師としての毎日を楽しみながら、自分の「やりたい！」<br class="pc">
-                を叶える、女性オーナーの明るいサロンです。<br class="pc"><br class="sp">
-                お客様の満足度を高める技術や接客のためには、スタッフが輝いていることが一<br class="pc">
-                番大切。“スタッフファースト”の精神で、美容師という仕事をもっと楽しめる職場<br class="pc">
-                環境づくりに力を入れています。
-            </p>
+
+            <div>
+                <strong>
+                    SHAPE ONE’S<br>
+                    DREAM
+                </strong>
+                <p class="fadeUp duration1">
+                    僕らは、夢をみる。<br>
+                    それは夜が明けても、覚めることはない。<br>
+                    この先の可能性を広げたいから。<br>
+                    やりたい仕事。 行きたい場所。 会いたい人。<br>
+                    接する全ての人の“幸せ”に向き合って<br>
+                    カタチにしていくことが僕らの夢。
+                </p>
+            </div>
 
             <figure class="fadeUp duration1">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/recruit/message_left02.jpg" alt="" loading="lazy">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/message_left02.jpg" alt="" loading="lazy">
             </figure>
         </div>
         <!-- //message_text_wrap -->
@@ -37,9 +53,9 @@
 <section id="howto" class="bg">
     <div class="container">
         <h2 class="sec_ttl roboto">
-            HOW TO WORK
+            PHILOSOPHY
             <small>
-            PINK VELVETの働きかた
+                THREEの大切にすること
             </small>
         </h2>
     </div>
@@ -47,44 +63,54 @@
         <div class="howto_child">
             <span class="no">01.</span>
             <h4>
-                月1回の「<span>日曜日休み</span>」、
-                <span>毎月連休</span>の週休2日制
+                人に興味を持ち、<br>
+                人を好きになる。
             </h4>
             <p>
-            <span>月1回の日曜休み</span>と、日・月または月・火の<span>毎週2連休</span>が嬉しい！週休2日制でしっかりとプライベートを確保。そのほか、“友人との食事の約束にもスタートから参加できるように”と、<span>月1回の「早帰り制度」</span>も導入しています。
+            テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。
             </p>
         </div>
 
         <div class="howto_child">
             <span class="no">02.</span>
             <h4>
-                スタッフのやる気を尊重<br>
-                <span>挑戦ができる環境です</span>
+                ポジティブな<br>
+                言葉に変えて発言する。
             </h4>
             <p>
-                「この講習を受講したい」「アイリストの勉強をしていきたい」など、<span>スタッフからの要望に全て応える、やる気を尊重した教育体制。</span>自由にのびのびと、自分らしさを発揮できます。
+            テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。
             </p>
         </div>
 
         <div class="howto_child">
             <span class="no">03.</span> 
             <h4>
-                <span>店販ノルマはなし！<br></span>
-                <span>話題の商材はいち早く</span>
+                人の良いところ<br>
+                見つけて褒める。
             </h4>
             <p>
-                新しい商品や商材、美容器具などは、SNSで話題になる前からチェック。<span>スタッフ間で話題になったものなども、<span>ディーラーさんの取扱ブランドにこだわらず、柔軟に取り入れています。
+            テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。
             </p>
         </div>
 
         <div class="howto_child">
             <span class="no">04.</span>
             <h4>
-                本当に嬉しい福利厚生、<br>
-                <span>有給取得率は100%！</span>
+                「すみません」より<br>
+                「ありがとう」を伝える。
             </h4>
             <p>
-                本人の誕生日やクリスマスのプレゼントのほか、スタッフが母の日に渡すためのギフトの進呈など、心の余裕を感じるハートフルな福利厚生が充実。<span>有給取得率も100%（土日可）</span>です。
+            テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。
+            </p>
+        </div>
+        <div class="howto_child">
+            <span class="no">05.</span>
+            <h4>
+                笑顔・挨拶をしっかり、<br>
+                目を見て話す。
+            </h4>
+            <p>
+            テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。
             </p>
         </div>
     </div>
@@ -106,18 +132,12 @@
                 </h2>
                 <p class="fadeUp duration2">
                     <span class="owner_name">オーナースタイリスト / 門脇 麻未</span>
-                    美容師がプライベートの時間を削って仕事をしたり、<br class="pc">
-                    休みが少ない、朝早く夜遅いなどの働き方を変えたくて<br class="pc">
-                    メリハリある仕事のやり方を徹底しています。<br class="pc">
-                    朝もゆっくり、仕事がおわったら即帰宅！<br class="pc">
-                    もちろん仕事の時間には全力でお客様を綺麗にします。
-                    <span class="owner_last">
-                        美容師だから、土日は絶対仕事。<br class="pc">
-                        それが当たり前のように思われていますが、私はそうは思いません。<br class="pc">
-                        パートナーや友達、家族との時間を大切にすることで、プライベートも充実させてほしい。それが必ず仕事にもつながると思っています。<br class="pc">
-                        そんな思いから、PINKVELVETでは月に1度交代で日曜日をお休みにしています。もちろん月曜定休は変わらないので、連休で次の日もオフ！<br class="pc">
-                        プライベートを楽しむ余裕を持って、美容師を楽しみましょう！
-                    </span>
+                    ここにメッセージが入ります。ここにメッセージが入ります。
+ここにメッセージが入ります。ここにメッセージが入ります。ここにメッセージが入ります。ここにメッセージが入ります。ここにメッセージが入ります。ここにメッセージが入ります。ここにメッセージが入ります。ここにメッセージが入ります。ここにメッセージが入ります。
+
+ここにメッセージが入ります。ここにメッセージが入ります。ここにメッセージが入ります。ここにメッセージが入ります。ここにメッセージが入ります。ここにメッセージが入ります。ここにメッセージが入ります。ここにメッセージが入ります。
+
+ここにメッセージが入ります。ここにメッセージが入ります。ここにメッセージが入ります。ここにメッセージが入ります。
                 </p>
             </div>
         </div>
@@ -137,14 +157,14 @@
             <ul class="staff_list flex">
                 <li class="fadeUp duration2">
                     <figure>
-                        <img src="<?php echo get_template_directory_uri(); ?>/images/recruit/staff_img01.jpg" alt="" class="pc">
-                        <img src="<?php echo get_template_directory_uri(); ?>/images/recruit/staff_img01_sp.jpg" alt="" class="sp">
+                        <img src="<?php echo get_template_directory_uri(); ?>/images/staff_img01.jpg" alt="" class="pc">
+                        <img src="<?php echo get_template_directory_uri(); ?>/images/staff_img01_sp.jpg" alt="" class="sp">
                     </figure>
                     <div class="staff_text flex">
                         <div class="staff_name">
-                            <h3>MANAMI</h3>
+                            <h3>NANOKA</h3>
                             <p>
-                                <span>ミエ・ヘアアーチスト・アカデミー 出身<br></span>
+                                <span>〇〇〇〇〇アカデミー 出身<br></span>
                                 <span>2019年入社</span>
                             </p>
                         </div>
@@ -156,14 +176,14 @@
 
                 <li class="fadeUp duration3">
                     <figure>
-                        <img src="<?php echo get_template_directory_uri(); ?>/images/recruit/staff_img02.jpg" alt="" class="pc">
-                        <img src="<?php echo get_template_directory_uri(); ?>/images/recruit/staff_img02_sp.jpg" alt="" class="sp">
+                        <img src="<?php echo get_template_directory_uri(); ?>/images/staff_img02.jpg" alt="" class="pc">
+                        <img src="<?php echo get_template_directory_uri(); ?>/images/staff_img02_sp.jpg" alt="" class="sp">
                     </figure>
                     <div class="staff_text flex">
                         <div class="staff_name">
-                            <h3>NATSUMI</h3>
+                            <h3>KATOU</h3>
                             <p>
-                                <span>名古屋文化短期大学 出身<br></span>
+                                <span>〇〇〇〇短期大学 出身<br></span>
                                 <span>2020年入社</span>
                             </p>
                         </div>
@@ -222,20 +242,20 @@
     <div class="proud_wrap">
         <div class="container flex">
             <figure class="proud_01 fadeUp duration1">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/recruit/proud_img01.jpg" alt="">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/proud_img01.jpg" alt="">
             </figure>
             <figure class="proud_02 fadeUp duration2">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/recruit/proud_img02.jpg" alt="">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/proud_img02.jpg" alt="">
             </figure>
         </div>
         <!-- //container -->
 
         <div class="next_proud_wrap flex">
             <figure class="proud_03 fadeUp duration1">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/recruit/proud_img03.jpg" alt="">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/proud_img03.jpg" alt="">
             </figure>
             <figure class="proud_04 fadeUp duration2">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/recruit/proud_img04.jpg" alt="">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/proud_img04.jpg" alt="">
             </figure>
         </div>
 
@@ -260,75 +280,79 @@
                 </dl> -->
 
                 <dl class="flex">
+                    <dt>会社名</dt>
+                    <dd>株式会社THREE</dd>
+                </dl>
+
+                <dl class="flex">
                     <dt>雇用形態</dt>
                     <dd>正社員</dd>
                 </dl>
 
                 <dl class="flex">
-                    <dt>職種</dt>
-                    <dd>スタイリスト/アシスタント<br>アイリスト/アイブロウリスト</dd>
-                </dl>
-
-                <dl class="flex">
                     <dt>給与</dt>
                     <dd>
-                        スタイリスト 月給25万〜<br>
-                        アシスタント 月給19.5万〜<br>
-                        ＋交通費（最低額4,200円は付きます）<br>
-                        ※研修期間あり：3ヶ月<br>
-                        ※研修期間中も給与は変動ありません
-                    </dd>
-                </dl>
-                <dl class="flex">
-                    <dt>賞与</dt>
-                    <dd>
-                        年3回 / 夏.冬.春（業績に応じて）<br>
-                        ※2020~2022年実績：支給率100%<br>
-                        ※年収例：指名売上100万スタイリスト｜449万（月給32万＋賞与60万(3回分)＋諸手当4,200/月）
-                    </dd>
-                </dl>
+                        【スタイリスト】基本給〇〇万+役職手当5万円～10万円,SNS手当,店販手当,求人手当,技術手当5,000円～1万円<br><br>
 
+                        【アシスタント】基本給22万+役職手当5万円～10万円,SNS手当,店販手当,求人手当,技術手当5,000円～1万円<br>
+                        ※研修期間あり：1〜6ヶ月
+                    </dd>
+                </dl>
                 <dl class="flex">
                     <dt>勤務地</dt>
                     <dd>
-                        <span>三重県四日市市室山町1545-4 宮脇ビル2F</span>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3270.1907612902237!2d136.577466515239!3d34.95182718037064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60038d318d71e3ad%3A0xf786f46dc7cd7707!2z44OU44Oz44Kv44OZ44Or44OZ44OD44OI!5e0!3m2!1sja!2sjp!4v1662075765222!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <div>
+                            <span>岐阜県各務原市那加前野町４丁目175</span>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3270.1907612902237!2d136.577466515239!3d34.95182718037064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60038d318d71e3ad%3A0xf786f46dc7cd7707!2z44OU44Oz44Kv44OZ44Or44OZ44OD44OI!5e0!3m2!1sja!2sjp!4v1662075765222!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
+                        <div>
+                            <span>岐阜県岐阜市田神10-17</span>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3270.1907612902237!2d136.577466515239!3d34.95182718037064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60038d318d71e3ad%3A0xf786f46dc7cd7707!2z44OU44Oz44Kv44OZ44Or44OZ44OD44OI!5e0!3m2!1sja!2sjp!4v1662075765222!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
                     </dd>
                 </dl>
 
                 <dl class="flex">
                     <dt>勤務時間</dt>
                     <dd>
-                        火、水、金、土、日　10:00 - 19:00<br>
-                        木（ナイターデイ）11:00 - 21:00
+                        月〜土　9:00 - 19:30<br>
+                        日祝日　9:00 - 19:00
                     </dd>
                 </dl>
 
                 <dl class="flex">
                     <dt>休日</dt>
                     <dd>
-                        <span class="under">完全週休2日制　（月•火か日•月の連休）</span><br>
-                        夏季休暇 4日<br>
-                        冬季休暇 6日<br>
-                        ゴールデンウィーク（2022年実績:3日間）
-
+                        ・完全週休2日制／年間休日数110日／有給10日<br>
+                        ・年末年始休暇（5日）<br>
+                        ・介護休暇（応相談）<br>
+                        ・産前・産後休暇（最長1年）<br>
+                        ・育児休暇（最長3年）<br>
+                        ・慶弔休暇（応相談）<br>
+                        ・アニバーサリー休暇（新婚旅行期間）
                     </dd>
                 </dl>
+
 
                 <dl class="flex">
                     <dt>待遇</dt>
                     <dd>
-                        ・有給休暇あり（土日取得可/消化率100%）<br>
-                        <span class="under">・月1回の日曜日定休</span><br>
-                        <span class="under">・月1回の早帰り制度</span><br>
                         ・社会保険完備<br>
                         （雇用保険、労災保険、厚生年金、健康保険）<br>
-                        ・年3回賞与あり（業績に応じて）<br>
-                        ・店販手当あり<span class="under">（売上ノルマなし）</span><br>
-                        ・産休育休制度<br>
-                        ・交通費支給<br>
-                        ・講習費支給<br>
-                        ・服装・髪色自由<br>
+                        ・健康診断<br>
+                        ・食事の提供、費用補助<br>
+                        ・結婚祝い金<br>
+                        ・死亡時弔慰金<br>
+                        ・出産祝い金<br>
+                        ・研修、セミナー参加の費用補助<br>
+                        ・副業可能<br>
+                        ・イベント開催の費用補助<br>
+                        ・部活、サークル活動の費用補助<br>
+                        ・運動施設、保養所利用の費用補助<br>
+                        ・社員旅行<br>
+                        ・社内預金制度<br>
+                        ・MVPなど社内称賛制度<br>
+                        ・社員割引
                     </dd>
                 </dl>
 
@@ -367,6 +391,36 @@
                 <?php echo do_shortcode('[contact-form-7 id="141" title="PINK VELVET様お問い合わせフォーム"]'); ?>
             </div>
             <!-- //entryform_wrapper -->
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2 class="sec_ttl roboto">
+                CONTACT
+                <small>
+                お問い合わせ
+                </small>
+            </h2>
+
+            <p class="contact_text">
+                お電話もインスタからもお気軽にお問合せください。
+            </p>
+
+            <ul class="flex contact_bnt_wrap">
+                <li>
+                    <a href="tel:0582609123" class="common_btn" target="_blank">
+                        <span>+</span>
+                        TEL
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/tote_yate_official/" class="common_btn" target="_blank">
+                        <span>+</span>
+                        INSTAGRAM
+                    </a>
+                </li>
+            </ul>
         </div>
     </section>
 </div>

@@ -2,41 +2,33 @@
 <div class="container">
     <div class="flex">
         <div class="ft_left">
-            <h3 class="aleo">THREE</h3>
+            <h3>THREE</h3>
             <small class="sp">Copyright © PINKVELVET All Rights Reserved.</small>
 
 
             <ul class="flex">
                 <li>
-                    <a href="/">TOP</a>
+                    <a href="/">THREEについて</a>
                 </li>
                 <li>
-                    <a href="/recruit">RECRUIT</a>
+                    <a href="#howto">THREEの大切にすること</a>
                 </li>
                 <li>
-                    <a href="/about/#page_concept">CONCEPT</a>
+                    <a href="#owner">オーナーメッセージ</a>
                 </li>
                 <li>
-                    <a href="/#staff">STAFF</a>
+                    <a href="#staff_interview">スタッフの声</a>
                 </li>
                 <li>
-                    <a href="/about">ABOUT</a>
+                    <a href="#flow">採用フロー</a>
                 </li>
                 <li>
-                    <a href="/#salon">SALON</a>
+                    <a href="#requirements">募集要項</a>
                 </li>
                 <li>
-                    <a href="/style_type/hair">STYLE</a>
+                    <a href="#entry">エントリーフォーム</a>
                 </li>
-                <li>
-                    <a href="/blog">BLOG</a>
-                </li>
-                <li>
-                    <a href="/#menu">MENU</a>
-                </li>
-                <li>
-                    <a href="">CONTACT</a>
-                </li>
+
             </ul>
 
             <small class="pc">Copyright © PINKVELVET All Rights Reserved.</small>

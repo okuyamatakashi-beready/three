@@ -175,15 +175,13 @@ $(function(){
 		dots:false,
 		infinite:true,
 		arrows: true, 
-		slidesToShow: 3.3,
+		slidesToShow: 2.4,
 		slidesToScroll: 1,
 		responsive: [
 			{
 			  	breakpoint: 768, // 399px以下のサイズに適用
 				settings: {
 				slidesToShow: 1,
-				centerMode: true,
-				centerPadding: "5%",
 				adaptiveHeight: true,
 				},
 			},

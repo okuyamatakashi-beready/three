@@ -4,7 +4,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
 		
-		<title>PINKVELVET</title>
+		<title>THREE</title>
 
 
 		<!-- CSS -->
@@ -29,6 +29,10 @@
 				if (isTablet) ViewportExtra.setContent({ minWidth: 1200 })
 			})
 		</script>
+
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@600&family=Roboto:wght@500&display=swap" rel="stylesheet">
 
 		<?php wp_head(); ?>
 
@@ -63,7 +67,7 @@
                     <div class="mv_logo">
 
                         <div>
-                            <a href="/" class="logo"><span class="aleo">PINK VELVET</span></a>
+                            <a href="/" class="logo">THREE</a>
 
                             <ul class="reserve_link flex">
                                 <li>
@@ -87,75 +91,64 @@
 						<ul class="gnav">
 							<li>
 								<a href="/">
-									TOP<span>/ トップ</span>
+									MESSAGE<span>/ メッセージ</span>
 								</a>
 							</li>
 
 							<li>
 								<a href="/about/#page_concept">
-									CONCEPT<span>/ コンセプト</span>
+								PHILOSOPHY<span>/ THREEの大切にすること</span>
 								</a>
 							</li>
 
 							<li>
 								<a href="/about">
-									ABOUT<span>/ サロン紹介</span>
+								GREETING<span>/ 代表挨拶</span>
 								</a>
 							</li>
 
 							<li>
 								<a href="/style_type/hair">
-									STYLE<span>/ スタイル</span>
+								INTERVIEW<span>/ スタッフインタビュー</span>
 								</a>
 							</li>
 
 							<li>
 								<a href="/#menu">
-									MENU<span>/ メニュー</span>
+								FLOW<span>/ 採用フロー</span>
 								</a>
 							</li>
 
 							<li>
 								<a href="/#staff">
-									STAFF<span>/ スタッフ</span>
+								RECRUIT<span>/ 募集要項</span>
 								</a>
 							</li>
 
 							<li>
 								<a href="/#info">
-									SALON<span>/ サロン情報</span>
+								COMPANY<span>/ 会社概要</span>
 								</a>
 							</li>
 
 							<li>
 								<a href="/blog">
-									BLOG<span>/ ブログ</span>
-								</a>
-							</li>
-
-							<li>
-								<a href="/recruit">
-									RECRUIT<span>/ リクルート</span>
-								</a>
-							</li>
-
-							<li>
-								<a href="/#footer">
-									CONTACT<span>/ お問い合わせ</span>
+								ENTRY<span>/ エントリー</span>
 								</a>
 							</li>
 						</ul>
 
-						<a href="https://www.instagram.com/pinkvelvet.hair.salon/" class="header_insta" targetr="_blank">
-							<img src="<?php echo get_template_directory_uri(); ?>/images/common/insta_icon.svg" alt="instagram"><span>pinkvelvet.hair.salon</span>
+						<a href="https://www.instagram.com/tote_yate_official/" class="header_insta" targetr="_blank">
+							<img src="<?php echo get_template_directory_uri(); ?>/images/common/insta_icon.svg" alt="instagram"><span>tote_yate_official</span>
 						</a>
 
 						<div class="header_left_btn">
+							<b>- LOOK ME</b>
 							<a href="https://beauty.hotpepper.jp/slnH000473798/" class="common_btn" targetr="_blank">
-								RESERVE
+							＋ HOT PEPPER
 							</a>
 							<a href="/recruit" class="common_btn">
-								RECRUIT
+							＋ HOT PEPPER
 							</a>
 						</div>
 					</div>
@@ -171,7 +164,7 @@
     <div class="mv_logo">
 
         <div>
-            <a href="/" class="logo"><span class="aleo">PINK VELVET</span></a>
+            <a href="/" class="logo">THREE</a>
 
             <ul class="reserve_link flex">
                 <li>
