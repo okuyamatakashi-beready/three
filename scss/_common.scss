@@ -67,7 +67,7 @@
 a.common_btn {
     width: 250px;
     text-align: center;
-    padding: 17px 0 18px 0;
+    padding: 16px 0 16px 0;
     font-size: clamp(14px, 1.6rem, 16px);
     display: block;
     margin: 0 auto;
@@ -374,6 +374,9 @@ span.flt_alpha {
                 color: #0570b4;
                 border-color: #0570b4;
                 margin-left: 0;
+                &.ft_insta {
+                    margin-left: 20px;
+                }
             }
 
             b {
@@ -383,6 +386,7 @@ span.flt_alpha {
                 margin-bottom: 20px;
                 display: block;
                 font-weight: 400;
+                font-weight: bold;
             }
 
             p {
@@ -394,9 +398,10 @@ span.flt_alpha {
 
             a.qr {
                 position: absolute;
-                right: -10%;
+                right: 10%;
                 bottom: 0;
-                width: 21%;
+                width: 16%;
+                top: 0;
 
                 figure {
                     width: 21%;

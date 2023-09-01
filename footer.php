@@ -4,9 +4,7 @@
         <div class="ft_left">
             <h3 class="aleo">THREE</h3>
             <small class="sp">Copyright © PINKVELVET All Rights Reserved.</small>
-            <a href="https://www.instagram.com/pinkvelvet.hair.salon/" class="ft_insta" target="_blank">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/top/salon_insta.svg" alt="">
-            </a>
+
 
             <ul class="flex">
                 <li>
@@ -46,25 +44,37 @@
         <!-- //ft_left --> 
 
         <div class="ft_right">
-            <h3 class="roboto">
-                <p>CONTACT・RESERVE</p>
-                <span>お問い合わせ・ご予約</span>
-            </h3>
+
 
             <ul>
                 <li>
-                    <b>- WEBでご予約</b>
-                    <a href="https://beauty.hotpepper.jp/slnH000473798/" class="common_btn" target="_blank">
-                        <span>+</span>
-                        HOT PEPPER
+                    <b>- FOLLOW ME</b>
+
+                    <a href="https://www.instagram.com/pinkvelvet.hair.salon/" class="ft_insta" target="_blank">
+                        <img src="<?php echo get_template_directory_uri(); ?>/images/top/salon_insta.svg" alt="">
                     </a>
+                    
                 </li>
 
                 <li>
-                    <b>- LINEお友だち追加</b>
+                    <b>- LOOK ME</b>
+                    <div class="flex">
+                        <a href="https://beauty.hotpepper.jp/slnH000473798/" class="common_btn" target="_blank">
+                            <span>+</span>
+                            HOT PEPPER
+                        </a>
+                        <a href="https://beauty.hotpepper.jp/slnH000473798/" class="common_btn" target="_blank">
+                            <span>+</span>
+                            HOT PEPPER
+                        </a>
+                    </div>
+                </li>
+
+                <li>
+                    <b>- 応募方法</b>
                     <p>
-                        公式LINEでのお問い合わせ・ご予約も承っています。<br>
-                        お友だち追加後、メッセージを送信ください。
+                        HOT PEPPERでの応募も承っています。<br>
+                        お気軽のご応募ください。
                     </p>
 
                     <a href="https://lin.ee/uv7PoBm" class="qr pc" target="_blank">

@@ -1485,7 +1485,7 @@ $footerBg: #EAEAEA;
     }
 
     .ft_right {
-
+		border-left: 1px solid $mainColor;
         h3 {
             p {
                 color: $mainColor;
