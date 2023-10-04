@@ -127,7 +127,7 @@
 
 							<li>
 								<a href="/#info">
-								COMPANY<span>/ 会社概要</span>
+								BRANDS<span>/ 店舗一覧</span>
 								</a>
 							</li>
 
@@ -137,19 +137,39 @@
 								</a>
 							</li>
 						</ul>
+						<div class="h_insta_link flex">
+							<a href="https://www.instagram.com/tote_yate_official/" class="header_insta" targetr="_blank">
+								<img src="<?php echo get_template_directory_uri(); ?>/images/common/insta_icon.svg" alt="instagram"><span>tote_yate_official</span>
+							</a>
+							<a href="https://www.instagram.com/yakiniku_raf/" class="header_insta" targetr="_blank">
+								<img src="<?php echo get_template_directory_uri(); ?>/images/common/insta_icon.svg" alt="instagram"><span>yakiniku_raf</span>
+							</a>
+						</div>
 
-						<a href="https://www.instagram.com/tote_yate_official/" class="header_insta" targetr="_blank">
-							<img src="<?php echo get_template_directory_uri(); ?>/images/common/insta_icon.svg" alt="instagram"><span>tote_yate_official</span>
-						</a>
-
-						<div class="header_left_btn">
+						<div class="header_left_btn pc">
 							<b>- LOOK ME</b>
-							<a href="https://beauty.hotpepper.jp/slnH000473798/" class="common_btn" targetr="_blank">
-							＋ HOT PEPPER
-							</a>
-							<a href="/recruit" class="common_btn">
-							＋ HOT PEPPER
-							</a>
+							<div class="flex">
+								<a href="https://beauty.hotpepper.jp/slnH000473798/" class="common_btn" targetr="_blank">
+								＋ tote
+								</a>
+								<a href="/recruit" class="common_btn">
+								＋ yate'
+								</a>
+								<a href="/recruit" class="common_btn">
+								＋ RAF
+								</a>
+							</div>
+						</div>
+						<div class="header_left_btn sp">
+							<b>- FOLLOW ME</b>
+							<div class="flex">
+								<a href="https://www.instagram.com/tote_yate_official/" class="header_insta" targetr="_blank">
+									<img src="<?php echo get_template_directory_uri(); ?>/images/common/insta_icon_orange.svg" alt="instagram"><span>tote_yate_official</span>
+								</a>
+								<a href="https://www.instagram.com/yakiniku_raf/" class="header_insta" targetr="_blank">
+									<img src="<?php echo get_template_directory_uri(); ?>/images/common/insta_icon_orange.svg" alt="instagram"><span>yakiniku_raf</span>
+								</a>
+							</div>
 						</div>
 					</div>
 					<!-- //header_nav -->

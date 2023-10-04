@@ -66,20 +66,16 @@
                 人に興味を持ち、<br>
                 人を好きになる。
             </h4>
-            <p>
-            テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。
-            </p>
+            <img src="<?php echo get_template_directory_uri(); ?>/images/howto_icon01.svg" alt="">
         </div>
 
         <div class="howto_child">
             <span class="no">02.</span>
             <h4>
                 ポジティブな<br>
-                言葉に変えて発言する。
+                言葉に置き変える。
             </h4>
-            <p>
-            テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。
-            </p>
+            <img src="<?php echo get_template_directory_uri(); ?>/images/howto_icon02.svg" alt="">
         </div>
 
         <div class="howto_child">
@@ -88,9 +84,7 @@
                 人の良いところ<br>
                 見つけて褒める。
             </h4>
-            <p>
-            テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。
-            </p>
+            <img src="<?php echo get_template_directory_uri(); ?>/images/howto_icon03.svg" alt="">
         </div>
 
         <div class="howto_child">
@@ -99,9 +93,7 @@
                 「すみません」より<br>
                 「ありがとう」を伝える。
             </h4>
-            <p>
-            テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。
-            </p>
+            <img src="<?php echo get_template_directory_uri(); ?>/images/howto_icon04.svg" alt="">
         </div>
         <div class="howto_child">
             <span class="no">05.</span>
@@ -109,9 +101,7 @@
                 笑顔・挨拶をしっかり、<br>
                 目を見て話す。
             </h4>
-            <p>
-            テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。
-            </p>
+            <img src="<?php echo get_template_directory_uri(); ?>/images/howto_icon05.svg" alt="">
         </div>
     </div>
     
@@ -286,7 +276,15 @@
 
                 <dl class="flex">
                     <dt>雇用形態</dt>
-                    <dd>正社員</dd>
+                    <dd>正社員/アルバイト</dd>
+                </dl>
+                <dl class="flex">
+                    <dt>雇用形態</dt>
+                    <dd>
+                        スタイリスト/アシスタント<br>
+                        アイリスト/アイブロウリスト<br>
+                        キッチン（アルバイト）/ホール（アルバイト）
+                    </dd>
                 </dl>
 
                 <dl class="flex">
@@ -295,19 +293,29 @@
                         【スタイリスト】基本給〇〇万+役職手当5万円～10万円,SNS手当,店販手当,求人手当,技術手当5,000円～1万円<br><br>
 
                         【アシスタント】基本給22万+役職手当5万円～10万円,SNS手当,店販手当,求人手当,技術手当5,000円～1万円<br>
-                        ※研修期間あり：1〜6ヶ月
+                        ※研修期間あり：1〜6ヶ月<br><br>
+
+                        【アルバイト】時給1,100円〜<br>
+                        賄い付き,出勤日数に応じてボーナスあり
                     </dd>
                 </dl>
                 <dl class="flex">
                     <dt>勤務地</dt>
                     <dd>
                         <div>
+                            <p>tote.</p>
                             <span>岐阜県各務原市那加前野町４丁目175</span>
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3270.1907612902237!2d136.577466515239!3d34.95182718037064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60038d318d71e3ad%3A0xf786f46dc7cd7707!2z44OU44Oz44Kv44OZ44Or44OZ44OD44OI!5e0!3m2!1sja!2sjp!4v1662075765222!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                         <div>
+                            <p>yate'</p>
                             <span>岐阜県岐阜市田神10-17</span>
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3270.1907612902237!2d136.577466515239!3d34.95182718037064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60038d318d71e3ad%3A0xf786f46dc7cd7707!2z44OU44Oz44Kv44OZ44Or44OZ44OD44OI!5e0!3m2!1sja!2sjp!4v1662075765222!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
+                        <div>
+                            <p>RAF</p>
+                            <span>岐阜市岩栄町2-17 三榮ビル1F</span>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3251.4933529735176!2d136.78164907577602!3d35.41780687267339!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6003a9464517d7a9%3A0x47cf85b9d0d79cca!2z54S86IKJUkFG!5e0!3m2!1sja!2sjp!4v1696457149559!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </dd>
                 </dl>
@@ -315,8 +323,15 @@
                 <dl class="flex">
                     <dt>勤務時間</dt>
                     <dd>
-                        月〜土　9:00 - 19:30<br>
-                        日祝日　9:00 - 19:00
+                        <div>
+                            <p class="second">tote./yate’</p>
+                            月〜土　9:00 - 19:30<br>
+                            日祝日　9:00 - 19:00
+                        </div>
+                        <div>
+                            <p>RAF</p>
+                            17:00～24:00(L.O.23:00) ／ 第一,第三火曜定休日
+                        </div>
                     </dd>
                 </dl>
 
@@ -356,19 +371,7 @@
                     </dd>
                 </dl>
 
-                <dl class="flex">
-                    <dt>求める人材像</dt>
-                    <dd>
-                        美容が好きな方<br>
-                        おしゃれが好きな方<br>
-                        楽しい事したい方
-                    </dd>
-                </dl>
 
-                <dl class="flex">
-                    <dt>応募資格・条件</dt>
-                    <dd>美容免許を持っている方</dd>
-                </dl>
             </div>
             <!-- //require_info -->
         </div>
