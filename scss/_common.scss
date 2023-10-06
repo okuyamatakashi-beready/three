@@ -396,12 +396,17 @@ span.flt_alpha {
                 color: #0570b4;
             }
 
-            a.qr {
+            .qr_list {
                 position: absolute;
-                right: 10%;
+                right: -10%;
                 bottom: 0;
-                width: 16%;
+                width: 50%;
                 top: 0;
+                justify-content: flex-start;
+                a {
+                    width: 30%;
+                    margin-right: 10%;
+                }
 
                 figure {
                     width: 21%;

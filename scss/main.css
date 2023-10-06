@@ -346,17 +346,22 @@ span.flt_alpha {
   line-height: 26px;
   color: #0570b4;
 }
-#footer .ft_right ul li a.qr {
+#footer .ft_right ul li .qr_list {
   position: absolute;
-  right: 10%;
+  right: -10%;
   bottom: 0;
-  width: 16%;
+  width: 50%;
   top: 0;
+  justify-content: flex-start;
 }
-#footer .ft_right ul li a.qr figure {
+#footer .ft_right ul li .qr_list a {
+  width: 30%;
+  margin-right: 10%;
+}
+#footer .ft_right ul li .qr_list figure {
   width: 21%;
 }
-#footer .ft_right ul li a.qr img {
+#footer .ft_right ul li .qr_list img {
   width: 100%;
 }
 
@@ -1421,6 +1426,7 @@ HOWTO
   .howto_slider .howto_child {
     margin-right: 0%;
     margin-left: 0%;
+    padding: 104px 0 82px 0;
   }
 }
 .howto_slider .howto_child span.no {
@@ -1454,6 +1460,11 @@ HOWTO
   position: absolute;
   right: 8%;
   top: 15%;
+}
+@media screen and (max-width: 768px) {
+  .howto_slider .howto_child img {
+    width: 40px;
+  }
 }
 .howto_slider .slick-prev {
   top: 8%;
@@ -2707,6 +2718,7 @@ ul.staff_list li .staff_text a::after {
   color: #FF5800;
   border-color: #FF5800;
   font-weight: normal;
+  width: 30%;
 }
 #footer .ft_right ul li b {
   color: #FF5800;
@@ -2714,4 +2726,15 @@ ul.staff_list li .staff_text a::after {
 }
 #footer .ft_right ul li p {
   color: #FF5800;
+}
+#footer .ft_right ul li .insta_list {
+  justify-content: flex-start;
+}
+#footer .ft_right ul li .insta_list a {
+  margin-right: 20px;
+}
+#footer .ft_right ul li .insta_list a span {
+  display: inline-block;
+  font-size: 16px;
+  padding-left: 10px;
 }/*# sourceMappingURL=main.css.map */

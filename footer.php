@@ -41,11 +41,18 @@
             <ul>
                 <li>
                     <b>- FOLLOW ME</b>
-
-                    <a href="https://www.instagram.com/pinkvelvet.hair.salon/" class="ft_insta" target="_blank">
-                        <img src="<?php echo get_template_directory_uri(); ?>/images/top/salon_insta.svg" alt="" class="pc">
-                        <img src="<?php echo get_template_directory_uri(); ?>/images/salon_insta_sp.svg" alt="" class="sp">
-                    </a>
+                    <div class="flex insta_list">
+                        <a href="https://www.instagram.com/tote_yate_official/" class="ft_insta flex" target="_blank">
+                            <img src="<?php echo get_template_directory_uri(); ?>/images/top/salon_insta.svg" alt="" class="pc">
+                            <img src="<?php echo get_template_directory_uri(); ?>/images/salon_insta_sp.svg" alt="" class="sp">
+                            <span>tote_yate_official</span>
+                        </a>
+                        <a href="https://www.instagram.com/yakiniku_raf/" class="ft_insta flex" target="_blank">
+                            <img src="<?php echo get_template_directory_uri(); ?>/images/top/salon_insta.svg" alt="" class="pc">
+                            <img src="<?php echo get_template_directory_uri(); ?>/images/salon_insta_sp.svg" alt="" class="sp">
+                            <span>yakiniku_raf</span>
+                        </a>
+                    </div>
                     
                 </li>
 
@@ -54,11 +61,15 @@
                     <div class="flex">
                         <a href="https://beauty.hotpepper.jp/slnH000473798/" class="common_btn" target="_blank">
                             <span>+</span>
-                            HOT PEPPER
+                            tote.
                         </a>
                         <a href="https://beauty.hotpepper.jp/slnH000473798/" class="common_btn" target="_blank">
                             <span>+</span>
-                            HOT PEPPER
+                            yate’
+                        </a>
+                        <a href="https://beauty.hotpepper.jp/slnH000473798/" class="common_btn" target="_blank">
+                            <span>+</span>
+                            RAF
                         </a>
                     </div>
                 </li>
@@ -69,10 +80,15 @@
                         HOT PEPPERでの応募も承っています。<br>
                         お気軽のご応募ください。
                     </p>
+                    <div class="flex qr_list">
 
-                    <a href="https://lin.ee/uv7PoBm" class="qr pc" target="_blank">
-                        <img src="<?php echo get_template_directory_uri(); ?>/images/top/qr.png" alt="">
-                    </a>
+                        <a href="https://lin.ee/uv7PoBm" class="qr pc" target="_blank">
+                            <img src="<?php echo get_template_directory_uri(); ?>/images/top/qr.png" alt="">
+                        </a>
+                        <a href="https://lin.ee/uv7PoBm" class="qr pc" target="_blank">
+                            <img src="<?php echo get_template_directory_uri(); ?>/images/top/qr.png" alt="">
+                        </a>
+                    </div>
 
                     <a href="https://lin.ee/uv7PoBm" class="common_btn sp" target="_blank">
                         <span>+</span>
