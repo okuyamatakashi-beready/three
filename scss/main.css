@@ -1847,6 +1847,87 @@ ul.staff_list li .staff_text a img {
 }
 
 /*********************************
+    brand
+*********************************/
+#brand {
+  padding-top: 12rem;
+}
+#brand .brand_container h2 {
+  text-align: center;
+  color: #ED6D69;
+  margin-bottom: 10rem;
+}
+#brand .brand_container .flex .brand_item {
+  width: 33.3333%;
+}
+#brand .brand_container .flex .brand_item .brand_thumb {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding-top: 68.75%;
+}
+#brand .brand_container .flex .brand_item .item1 {
+  background-image: url(./../images/brand_img.jpg);
+}
+#brand .brand_container .flex .brand_item .brand_info {
+  position: relative;
+  box-sizing: border-box;
+  padding: 4rem 4rem 5rem 7rem;
+}
+#brand .brand_container .flex .brand_item .brand_info h3 {
+  margin-bottom: 8px;
+}
+#brand .brand_container .flex .brand_item .brand_info h3 span {
+  font-size: clamp(15px, 2rem, 25px);
+  letter-spacing: 0.2em;
+  display: block;
+  font-weight: normal;
+}
+#brand .brand_container .flex .brand_item .brand_info h3 small {
+  font-size: 10px;
+  line-height: 3;
+  letter-spacing: 0.4em;
+  display: block;
+}
+#brand .brand_container .flex .brand_item .brand_info p {
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  line-height: 2.5;
+  margin-bottom: 4rem;
+}
+#brand .brand_container .flex .brand_item .brand_info p a {
+  color: #000;
+}
+#brand .brand_container .flex .brand_item .brand_info .flex {
+  justify-content: space-between;
+}
+#brand .brand_container .flex .brand_item .brand_info .flex div img {
+  display: inline-block;
+  vertical-align: middle;
+  padding-right: 10px;
+}
+#brand .brand_container .flex .brand_item .brand_info .flex div span {
+  font-size: 16;
+  display: inline-block;
+  vertical-align: middle;
+}
+#brand .brand_container .flex .brand_item .brand_info .cat {
+  position: absolute;
+  top: 4rem;
+  right: 4rem;
+}
+#brand .brand_container .flex .brand_item .brand_info .cat span {
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  border: 1px solid #000;
+  border-radius: 25px;
+  width: 80px;
+  display: inline-block;
+  text-align: center;
+}
+
+/*********************************
     ENTRY
 *********************************/
 #entry {
