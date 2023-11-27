@@ -221,7 +221,7 @@
 
             <dl class="fadeUp duration5">
                 <dt>04. 採用</dt>
-                <dd>正式に採用のご連絡をいたします。<br>PINKVELVETの新しい仲間として、一緒に美容師を楽しみましょう♪</dd>
+                <dd>正式に採用のご連絡をいたします。<br>HAIR SALONの新しい仲間として、一緒に美容師を楽しみましょう♪</dd>
             </dl>
         </div>
     </div>
